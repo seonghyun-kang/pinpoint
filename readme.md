@@ -1,3 +1,4 @@
+![Alt text](https://github.com/seonghyun-kang/pinpoint/1.png)
 host(Macbook)
 
 both server and agent were run in a vagrant environment.
