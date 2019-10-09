@@ -1,4 +1,4 @@
-![Alt text](https://github.com/seonghyun-kang/pinpoint/1.png)
+
 host(Macbook)
 
 both server and agent were run in a vagrant environment.
@@ -128,3 +128,7 @@ both server and agent were run in a vagrant environment.
   i only got this line.
   
   and still no data on web ui
+  
+![Alt text](1.png)
+
+![Alt text](2.png)
